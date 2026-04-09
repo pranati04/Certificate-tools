@@ -1,6 +1,6 @@
-# RDV Certificate Tools
+# Certificate Tools
 
-A set of Python tools built for **Rani Durgavati Vishwavidyalaya, Jabalpur** to automate the generation of degree certificates and the conversion of Hindi text between Unicode (Devanagari) and KrutiDev 10 encoding.
+A set of Python tools built for to automate the generation of degree certificates and the conversion of Hindi text between Unicode (Devanagari) and KrutiDev 10 encoding.
 
 ---
 
@@ -37,8 +37,8 @@ You must supply them yourself and place them in the correct folder before runnin
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/rdv-certificate-tools.git
-cd rdv-certificate-tools
+git clone https://github.com/pranati04/Certificate-tools.git
+cd Certificate-tools
 
 # Install dependencies for the certificate generator
 pip install python-docx openpyxl
@@ -64,4 +64,4 @@ Both tools use `tkinter` for their GUI, which is included with standard Python o
 
 ## Developer
 
-Built for internal use at Rani Durgavati Vishwavidyalaya, Jabalpur.
+Built for internal use
