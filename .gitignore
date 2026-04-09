@@ -1,0 +1,18 @@
+# Student data — private
+*.xlsx
+*.xls
+*.csv
+
+# Certificate templates
+*.docx
+*.doc
+
+# Generated output
+cert_*.docx
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
